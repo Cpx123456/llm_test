@@ -1,1 +1,3 @@
-this code just used for my own test, the primary origine is L2M3.
+This code is only for debugging purposes, and it originates from L2M3.
+
+The url is https://github.com/Yeonghun1675/L2M3
