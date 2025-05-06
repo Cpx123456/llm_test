@@ -7,7 +7,7 @@ from llm_miner.config import config
 import openai
 
 
-openai.base_url="https://api.hunyuan.cloud.tencent.com/v1"
+openai.base_url=""
 file_path=r''
 publisher='elsevier'
 openai.api_key= ''
