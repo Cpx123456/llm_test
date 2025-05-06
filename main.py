@@ -8,9 +8,9 @@ import openai
 
 
 openai.base_url="https://api.hunyuan.cloud.tencent.com/v1"
-file_path=r'C:\Users\pupu\Desktop\test\4.xml'
+file_path=r''
 publisher='elsevier'
-openai.api_key= 'sk-0LMeiAGG8RnrHZ1yilWtRKB1QRWFOEejKAKgRXwokDbXVdGN'
+openai.api_key= ''
 
 
 
